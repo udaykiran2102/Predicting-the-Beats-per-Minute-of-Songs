@@ -9,9 +9,9 @@
 
 ### ⚡ **TOP 48.3% IN OUR FIRST COMPETITION!** ⚡ 
 
-> *"We didn't just participate—we DOMINATED our debut!"*
+> *"We didn't just participate—we DOMINATED our debut!"* 
 
-**29 Submissions | 2 Best Models | Infinite Determination**
+**29 Submissions | 2 Best Models | Infinite Determination**  
  
 </div>
 
