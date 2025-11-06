@@ -15,7 +15,7 @@
  
 </div>
 
----
+--- 
 
 ## 🔥 TEAM PHOENIX ALGORITHMS - THE ORIGIN STORY
 
@@ -33,7 +33,7 @@ Four data science warriors entered their first battlefield. Armed with Python, f
 <a href="https://github.com/mohan13krishna"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
 <td align="center" width="25%">
-<img src="https://github.com/rakeshkolipakaace.png" width="150px" style="border-radius: 50%;" alt="Rakesh Kolipaka"/><br />
+<img src="https://github.com/rakeshkolipakaace.png" width="150px" style="border-radius: 50%;" alt="Rakesh Kolipaka"/><br /> 
 <b>🔧 Rakesh Kolipaka</b><br />
 <i>Data Scientist</i><br />
 <i>Hyperparameter Wizard</i><br /><br />
@@ -52,7 +52,7 @@ Four data science warriors entered their first battlefield. Armed with Python, f
 <img src="https://github.com/udaykiran2102.png" width="150px" style="border-radius: 50%;" alt="Neelam Uday Kiran"/><br />
 <b>🎯 Neelam Uday Kiran</b><br />
 <i>Strategic Advisor</i><br />
-<i>Unofficial Support Hero</i><br /><br />
+<i>Unofficial Support Hero</i><br /><br /> 
 <a href="https://www.kaggle.com/neelamuday"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 <a href="https://github.com/udaykiran2102"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
@@ -72,7 +72,7 @@ Four data science warriors entered their first battlefield. Armed with Python, f
 ## 📊 COMPETITION INTEL
 
 **Mission:** Predict the Beats-Per-Minute (BPM) of songs with surgical precision  
-**Challenge:** Kaggle Playground Series - Season 5, Episode 9  
+**Challenge:** Kaggle Playground Series - Season 5, Episode 9   
 **Duration:** September 1-30, 2025 (30 days of pure grind)  
 **Metric:** RMSE (Root Mean Squared Error) - *Lower is King*  
 **Dataset Size:** 83.41 MB of pure musical data  
